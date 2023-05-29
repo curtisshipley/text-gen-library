@@ -1,5 +1,5 @@
 
-class IModules:
+class KoboldCpp:
     def setup(self, modelargs) -> str:
         """Load in the file for extracting text."""
         pass
